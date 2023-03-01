@@ -1,3 +1,3 @@
 # Nerual_Network
 Test images PNG
-[Uploading train_pictures.zip…]()
+[train_pictures.zip](https://github.com/Alek7mak/Nerual_Network/files/10864213/train_pictures.zip)
